@@ -3,6 +3,11 @@
 A full-stack notes taking app built with **Next.js (frontend)**, **Django (backend)**, and **MySQL**.
 The app allows users to register, log in, and manage their personal notes with a clean handcrafted UI.
 
+## sample project image
+   <img width="1554" height="674" alt="image" src="https://github.com/user-attachments/assets/6ff56b39-f5d0-47be-9d35-a916fe16c1e4" />
+   <img width="1560" height="636" alt="image" src="https://github.com/user-attachments/assets/c41c8bf1-07c0-4d15-8a91-53377f54b93a" />
+   <img width="1655" height="791" alt="image" src="https://github.com/user-attachments/assets/d86b8e00-0365-4112-80d8-3ee11cc78788" />
+
 ---
 
 ## ✨ Features
